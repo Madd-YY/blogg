@@ -2,92 +2,92 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/</loc>
+    <loc>/blog/en/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/"
+                href="/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="/blog/en/"
                 />
   </url><url>
-    <loc>/en/about/</loc>
+    <loc>/blog/en/about/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/tentang/"
+                href="/blog/tentang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/about/"
+                href="/blog/en/about/"
                 />
   </url><url>
-    <loc>/en/page/</loc>
+    <loc>/blog/en/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/page/"
+                href="/blog/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/page/"
+                href="/blog/en/page/"
                 />
   </url><url>
-    <loc>/en/archives/</loc>
+    <loc>/blog/en/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/archives/"
+                href="/blog/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/archives/"
+                href="/blog/en/archives/"
                 />
   </url><url>
-    <loc>/en/categories/</loc>
+    <loc>/blog/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/categories/"
+                href="/blog/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="/blog/en/categories/"
                 />
   </url><url>
-    <loc>/en/search/</loc>
+    <loc>/blog/en/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/search/"
+                href="/blog/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/search/"
+                href="/blog/en/search/"
                 />
   </url><url>
-    <loc>/en/tags/</loc>
+    <loc>/blog/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/tags/"
+                href="/blog/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="/blog/en/tags/"
                 />
   </url>
 </urlset>
