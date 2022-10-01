@@ -2,92 +2,197 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <loc>blog/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/en/"
+                href="blog/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/blog/"
+                href="blog/"
                 />
   </url><url>
-    <loc>/blog/page/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <loc>blog/p/3-template-navigasi-bar-sederhana/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/en/page/"
+                href="blog/en/p/3-simple-navbar-template/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/blog/page/"
+                href="blog/p/3-template-navigasi-bar-sederhana/"
                 />
   </url><url>
-    <loc>/blog/tentang/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <loc>blog/categories/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/en/about/"
+                href="blog/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/blog/tentang/"
+                href="blog/categories/"
                 />
   </url><url>
-    <loc>/blog/archives/</loc>
+    <loc>blog/tags/css/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="blog/en/tags/css/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="blog/tags/css/"
+                />
+  </url><url>
+    <loc>blog/tags/html/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="blog/en/tags/html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="blog/tags/html/"
+                />
+  </url><url>
+    <loc>blog/tags/javascript/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="blog/en/tags/javascript/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="blog/tags/javascript/"
+                />
+  </url><url>
+    <loc>blog/tags/navbar/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="blog/en/tags/navbar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="blog/tags/navbar/"
+                />
+  </url><url>
+    <loc>blog/post/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="blog/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="blog/post/"
+                />
+  </url><url>
+    <loc>blog/tags/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="blog/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="blog/tags/"
+                />
+  </url><url>
+    <loc>blog/categories/template/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="blog/en/categories/template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="blog/categories/template/"
+                />
+  </url><url>
+    <loc>blog/page/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="blog/en/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="blog/page/"
+                />
+  </url><url>
+    <loc>blog/tentang/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="blog/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="blog/tentang/"
+                />
+  </url><url>
+    <loc>blog/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/en/archives/"
+                href="blog/en/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/blog/archives/"
+                href="blog/archives/"
                 />
   </url><url>
-    <loc>/blog/categories/</loc>
+    <loc>blog/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/en/categories/"
+                href="blog/en/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/blog/categories/"
+                href="blog/search/"
                 />
   </url><url>
-    <loc>/blog/search/</loc>
+    <loc>blog/tautan/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/en/search/"
+                href="blog/en/link/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/blog/search/"
-                />
-  </url><url>
-    <loc>/blog/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/blog/tags/"
+                href="blog/tautan/"
                 />
   </url>
 </urlset>
