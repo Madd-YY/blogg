@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on dai_re</title>
-        <link>blog/en/categories/</link>
+        <link>/blog/en/categories/</link>
         <description>Recent content in Categories on dai_re</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="blog/en/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/blog/en/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Template</title>
-        <link>blog/en/categories/template/</link>
+        <link>/blog/en/categories/template/</link>
         <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
         
-        <guid>blog/en/categories/template/</guid>
+        <guid>/blog/en/categories/template/</guid>
         <description></description>
         </item>
         

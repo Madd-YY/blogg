@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on dai_re</title>
-        <link>blog/post/</link>
+        <link>/blog/post/</link>
         <description>Recent content in Posts on dai_re</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="blog/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/blog/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>3 Template navigasi bar sederhana</title>
-        <link>blog/p/3-template-navigasi-bar-sederhana/</link>
+        <link>/blog/p/3-template-navigasi-bar-sederhana/</link>
         <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
         
-        <guid>blog/p/3-template-navigasi-bar-sederhana/</guid>
+        <guid>/blog/p/3-template-navigasi-bar-sederhana/</guid>
         <description>&lt;img src="/blog/p/3-template-navigasi-bar-sederhana/Screenshot_20221001_100502.png" alt="Featured image of post 3 Template navigasi bar sederhana" /&gt;&lt;p&gt;Sesuai dengan apa yang saya katakan beberapa waktu lalu di media sosial , kali ini saya akan memberikan 3 Template navigasi bar sederhana dan responsive untuk melengkapi website atau blog yang sedang anda buat.&lt;/p&gt;
 &lt;p&gt;Saya juga akan menjelaskan sedikit kegunaan beberapa baris kode supaya anda tidak kebingungan.&lt;/p&gt;
 &lt;p&gt;Ada 2 cara untuk menggunakan Template ini , ada bisa mengunduh semua berkas (html,css,js) nya di repository  github saya atau langsung menyalin kode nya dari artikel ini.&lt;/p&gt;
@@ -22,10 +22,10 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;tampilan-navigasi&#34;&gt;tampilan navigasi&lt;/h3&gt;
 &lt;p&gt;1 &lt;a class=&#34;link&#34; href=&#34;#style-pertama&#34; &gt;pertama&lt;/a&gt;
-&lt;img src=&#34;blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070338.jpg&#34;
+&lt;img src=&#34;/blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070338.jpg&#34;
 	width=&#34;1022&#34;
 	height=&#34;43&#34;
-	srcset=&#34;blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070338_hu3816e64bb18453d7fac43feb40cf009b_6712_480x0_resize_q75_box.jpg 480w, blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070338_hu3816e64bb18453d7fac43feb40cf009b_6712_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;/blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070338_hu3816e64bb18453d7fac43feb40cf009b_6712_480x0_resize_q75_box.jpg 480w, /blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070338_hu3816e64bb18453d7fac43feb40cf009b_6712_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;dekstop&#34;
@@ -36,10 +36,10 @@
 		data-flex-basis=&#34;5704px&#34;
 	
 &gt;
-&lt;img src=&#34;blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070602.jpg&#34;
+&lt;img src=&#34;/blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070602.jpg&#34;
 	width=&#34;864&#34;
 	height=&#34;539&#34;
-	srcset=&#34;blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070602_hu5a8c46d5da63482e3cb5bbdc1a1cb053_33936_480x0_resize_q75_box.jpg 480w, blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070602_hu5a8c46d5da63482e3cb5bbdc1a1cb053_33936_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;/blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070602_hu5a8c46d5da63482e3cb5bbdc1a1cb053_33936_480x0_resize_q75_box.jpg 480w, /blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070602_hu5a8c46d5da63482e3cb5bbdc1a1cb053_33936_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;mobile&#34;
@@ -51,10 +51,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;2 &lt;a class=&#34;link&#34; href=&#34;#style-kedua&#34; &gt;kedua&lt;/a&gt;
-&lt;img src=&#34;blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070411.jpg&#34;
+&lt;img src=&#34;/blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070411.jpg&#34;
 	width=&#34;1016&#34;
 	height=&#34;40&#34;
-	srcset=&#34;blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070411_hub9b6994736111042b315ea7e606dddf7_3768_480x0_resize_q75_box.jpg 480w, blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070411_hub9b6994736111042b315ea7e606dddf7_3768_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;/blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070411_hub9b6994736111042b315ea7e606dddf7_3768_480x0_resize_q75_box.jpg 480w, /blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070411_hub9b6994736111042b315ea7e606dddf7_3768_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -64,10 +64,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;3 &lt;a class=&#34;link&#34; href=&#34;#style-ketiga&#34; &gt;ketiga&lt;/a&gt;
-&lt;img src=&#34;blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070511.jpg&#34;
+&lt;img src=&#34;/blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070511.jpg&#34;
 	width=&#34;1016&#34;
 	height=&#34;40&#34;
-	srcset=&#34;blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070511_hue668b288e634fb499c61d394f4d1a1d6_3214_480x0_resize_q75_box.jpg 480w, blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070511_hue668b288e634fb499c61d394f4d1a1d6_3214_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;/blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070511_hue668b288e634fb499c61d394f4d1a1d6_3214_480x0_resize_q75_box.jpg 480w, /blog/blog/p/3-template-navigasi-bar-sederhana/SmartSelect_20221001-070511_hue668b288e634fb499c61d394f4d1a1d6_3214_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -80,10 +80,10 @@
 &lt;p&gt;Buka tautan ini &lt;a class=&#34;link&#34; href=&#34;https://github.com/dai-re/3-navbar-templates&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://github.com/dai-re/3-navbar-templates&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Klik &lt;code&gt;code&lt;/code&gt; setelah itu klik &lt;code&gt;download ZIP&lt;/code&gt;
-&lt;img src=&#34;blog/blog/p/3-template-navigasi-bar-sederhana/Screenshot_20221001-092923_Chrome.jpg&#34;
+&lt;img src=&#34;/blog/blog/p/3-template-navigasi-bar-sederhana/Screenshot_20221001-092923_Chrome.jpg&#34;
 	width=&#34;1078&#34;
 	height=&#34;1009&#34;
-	srcset=&#34;blog/blog/p/3-template-navigasi-bar-sederhana/Screenshot_20221001-092923_Chrome_hub57af5c381f7091046202755bc00fe07_113587_480x0_resize_q75_box.jpg 480w, blog/blog/p/3-template-navigasi-bar-sederhana/Screenshot_20221001-092923_Chrome_hub57af5c381f7091046202755bc00fe07_113587_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;/blog/blog/p/3-template-navigasi-bar-sederhana/Screenshot_20221001-092923_Chrome_hub57af5c381f7091046202755bc00fe07_113587_480x0_resize_q75_box.jpg 480w, /blog/blog/p/3-template-navigasi-bar-sederhana/Screenshot_20221001-092923_Chrome_hub57af5c381f7091046202755bc00fe07_113587_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	

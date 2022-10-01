@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on dai_re</title>
-        <link>blog/en/post/</link>
+        <link>/blog/en/post/</link>
         <description>Recent content in Posts on dai_re</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="blog/en/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/blog/en/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>3 simple navbar Template</title>
-        <link>blog/en/p/3-simple-navbar-template/</link>
+        <link>/blog/en/p/3-simple-navbar-template/</link>
         <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
         
-        <guid>blog/en/p/3-simple-navbar-template/</guid>
+        <guid>/blog/en/p/3-simple-navbar-template/</guid>
         <description>&lt;img src="/blog/en/p/3-simple-navbar-template/Screenshot_20221001_100502.png" alt="Featured image of post 3 simple navbar Template" /&gt;&lt;p&gt;In accordance with what I said some time ago on social media, this time I will provide 3 simple and responsive navigation bar templates to complement the website or blog that you are creating.&lt;/p&gt;
 &lt;p&gt;There are 2 ways to use this template, you can download all the files (html, css, js) in my github repository or directly copy the code from this article.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;the method&lt;/strong&gt;&lt;/p&gt;
@@ -21,10 +21,10 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;navigation-view&#34;&gt;navigation view&lt;/h3&gt;
 &lt;p&gt;1 &lt;a class=&#34;link&#34; href=&#34;#style-pertama&#34; &gt;first&lt;/a&gt;
-&lt;img src=&#34;blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070338.jpg&#34;
+&lt;img src=&#34;/blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070338.jpg&#34;
 	width=&#34;1022&#34;
 	height=&#34;43&#34;
-	srcset=&#34;blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070338_hu3816e64bb18453d7fac43feb40cf009b_6712_480x0_resize_q75_box.jpg 480w, blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070338_hu3816e64bb18453d7fac43feb40cf009b_6712_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;/blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070338_hu3816e64bb18453d7fac43feb40cf009b_6712_480x0_resize_q75_box.jpg 480w, /blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070338_hu3816e64bb18453d7fac43feb40cf009b_6712_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;dekstop&#34;
@@ -35,10 +35,10 @@
 		data-flex-basis=&#34;5704px&#34;
 	
 &gt;
-&lt;img src=&#34;blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070602.jpg&#34;
+&lt;img src=&#34;/blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070602.jpg&#34;
 	width=&#34;864&#34;
 	height=&#34;539&#34;
-	srcset=&#34;blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070602_hu5a8c46d5da63482e3cb5bbdc1a1cb053_33936_480x0_resize_q75_box.jpg 480w, blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070602_hu5a8c46d5da63482e3cb5bbdc1a1cb053_33936_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;/blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070602_hu5a8c46d5da63482e3cb5bbdc1a1cb053_33936_480x0_resize_q75_box.jpg 480w, /blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070602_hu5a8c46d5da63482e3cb5bbdc1a1cb053_33936_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;mobile&#34;
@@ -50,10 +50,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;2 &lt;a class=&#34;link&#34; href=&#34;#style-kedua&#34; &gt;second&lt;/a&gt;
-&lt;img src=&#34;blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070411.jpg&#34;
+&lt;img src=&#34;/blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070411.jpg&#34;
 	width=&#34;1016&#34;
 	height=&#34;40&#34;
-	srcset=&#34;blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070411_hub9b6994736111042b315ea7e606dddf7_3768_480x0_resize_q75_box.jpg 480w, blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070411_hub9b6994736111042b315ea7e606dddf7_3768_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;/blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070411_hub9b6994736111042b315ea7e606dddf7_3768_480x0_resize_q75_box.jpg 480w, /blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070411_hub9b6994736111042b315ea7e606dddf7_3768_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -63,10 +63,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;3 &lt;a class=&#34;link&#34; href=&#34;#style-ketiga&#34; &gt;third&lt;/a&gt;
-&lt;img src=&#34;blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070511.jpg&#34;
+&lt;img src=&#34;/blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070511.jpg&#34;
 	width=&#34;1016&#34;
 	height=&#34;40&#34;
-	srcset=&#34;blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070511_hue668b288e634fb499c61d394f4d1a1d6_3214_480x0_resize_q75_box.jpg 480w, blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070511_hue668b288e634fb499c61d394f4d1a1d6_3214_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;/blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070511_hue668b288e634fb499c61d394f4d1a1d6_3214_480x0_resize_q75_box.jpg 480w, /blog/blog/en/p/3-simple-navbar-template/SmartSelect_20221001-070511_hue668b288e634fb499c61d394f4d1a1d6_3214_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -79,10 +79,10 @@
 &lt;p&gt;Open this link &lt;a class=&#34;link&#34; href=&#34;https://github.com/dai-re/3-navbar-templates&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://github.com/dai-re/3-navbar-templates&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Click &lt;code&gt;code&lt;/code&gt; after that click &lt;code&gt;download ZIP&lt;/code&gt;
-&lt;img src=&#34;blog/blog/en/p/3-simple-navbar-template/Screenshot_20221001-092923_Chrome.jpg&#34;
+&lt;img src=&#34;/blog/blog/en/p/3-simple-navbar-template/Screenshot_20221001-092923_Chrome.jpg&#34;
 	width=&#34;1078&#34;
 	height=&#34;1009&#34;
-	srcset=&#34;blog/blog/en/p/3-simple-navbar-template/Screenshot_20221001-092923_Chrome_hub57af5c381f7091046202755bc00fe07_113587_480x0_resize_q75_box.jpg 480w, blog/blog/en/p/3-simple-navbar-template/Screenshot_20221001-092923_Chrome_hub57af5c381f7091046202755bc00fe07_113587_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;/blog/blog/en/p/3-simple-navbar-template/Screenshot_20221001-092923_Chrome_hub57af5c381f7091046202755bc00fe07_113587_480x0_resize_q75_box.jpg 480w, /blog/blog/en/p/3-simple-navbar-template/Screenshot_20221001-092923_Chrome_hub57af5c381f7091046202755bc00fe07_113587_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
